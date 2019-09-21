@@ -1,15 +1,15 @@
 # Najmiddin Mirzoboev 
 
 ### Several ways to find me:
-* My Email [address](najmiddin4242@gmail.com)
+* My Email: najmiddin4242@gmail.com
 * My phone number: +99897-390-42-42
 * My Telegram [account](https://t.me/najeek)
 * My Facebook [account](https://www.facebook.com/profile.php?id=100008073481703)
 * My HeadHunter [resume](https://hh.uz/resume/f8774902ff06e93e110039ed1f464e4d474f64)
 
 ### Short summary:
-**Purposefulness, constant self-development, sociability and sociability.
-Analytical mindset, the ability to find a solution to complex problems. **
+Purposefulness, constant self-development, sociability and sociability.
+Analytical mindset, the ability to find a solution to complex problems.
 
 ### My key skills:
 - HTML5
@@ -22,7 +22,7 @@ Analytical mindset, the ability to find a solution to complex problems. **
   - EcmaScript 5   
   - EcmaScript 6   
   - Jquery
-  - React
+  - ReactJS
 - Webpack
 - NPM
 - Node.Js   
@@ -120,11 +120,11 @@ locationBtn.addEventListener('click', () => {
     input.value = '';
 })
 ```
-You can find it [here](https://weather-4242.firebaseapp.com/)
+You can use it [here](https://weather-4242.firebaseapp.com/)
 
 ### My working experience:
-* telegram bot maker intern (*6 months*)
-* junior front-end intern - verstalshik (*2 months*)
+* telegram bot-maker intern (*6 months*)
+* junior front-end intern - 'verstalshik' (*2 months*)
 * testing tasks for reactjs developer position in outsource ukrainian company [beejee.ru](https://beejee.ru/)
 * two websites for university module assessment
 
